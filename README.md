@@ -1,10 +1,12 @@
 # Organizing your data and software with a reproducible project workflow
 
-## DCC Spring Training Days - day 2
+## DCC Spring Training Days
 
 In this Spring Training workshop, we will take you through the life cycle of a
 project, teaching good habits along the way, and using familiar tools as much as
-possible. We will start at the **PRESENT**, where you will create your project.
+possible. 
+
+We will start at the **PRESENT**, where you will create your project.
 From a few data files (adapted from [Hope _et al._, 2021](data/README.md)), you
 will create an organized project. Then, we will track the project's history in
 **PAST**: you will make a changelog, and create a 'project release' with a
@@ -29,8 +31,8 @@ Participants are expected to follow these guidelines:
 - Show courtesy and respect towards other community members
 - We do not tolerate any form of discrimination, intimidation or harassment.
 
-If you feel any one of these guidelines has been violated, please contact
-training@esciencecenter.nl.
+If you feel any one of these guidelines has been violated, please contact the workshop organizers!
+
 
 ### Workflow
 
@@ -55,12 +57,13 @@ training@esciencecenter.nl.
 |:------|:------------|:-----|
 | 13:00 | Kickoff & introductions | Plenary |
 | 13:15 | PRESENT: organize your project | [Video & exercise](lessons/present.md) |
-| 14:00 | _Tea break_ | - |
+| 14:00 | _Coffee break_ | - |
 | 14:15 | PAST: version control | [Video & exercise](lessons/past.md) |
-| 15:00 | _Tea break_ | - |
+| 15:00 | _Coffee break_ | - |
 | 15:15 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
 | 16:00 | Personal stories of challenges and struggles  | Breakout, see questions below! |
 | 16:25 | Wrap-up | Plenary |
+| 17:00 | End of workshop |  |
 
 ### Discussion
 
@@ -76,9 +79,9 @@ the group:
 
 If you're interested in learning more digital skills for research, check out the
 eScience Center's upcoming training programme at
-[escience-academy.github.io](https://escience-academy.github.io/). If you have
-feedback, questions, compliments, or simply greetings for us? Write to
-training@esciencecenter.nl.
+[escience-academy.github.io](https://escience-academy.github.io/). 
+
+If you have feedback, questions, compliments, or simply greetings for us? Please contact the organizers.
 
 ### License
 
