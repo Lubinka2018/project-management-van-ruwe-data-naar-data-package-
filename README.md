@@ -79,7 +79,7 @@ the group:
 
 If you're interested in learning more digital skills for research, check out the
 eScience Center's upcoming training programme at
-[escience-academy.github.io](https://escience-academy.github.io/). 
+[esciencecenter-digital-skills.github.io/](https://esciencecenter-digital-skills.github.io/). 
 
 If you have feedback, questions, compliments, or simply greetings for us? Please contact the organizers.
 
