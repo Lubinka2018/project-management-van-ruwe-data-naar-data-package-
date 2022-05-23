@@ -35,12 +35,12 @@ _[View the transcript here](../transcripts/project_management.md)_
 ## Exercise
 
 **Before you start:** Make sure you have [downloaded the
-data](https://github.com/escience-academy/2021-06-03-DCC-project-management/raw/main/data/datafiles.zip).
+data](../../../raw/main/data/datafiles.zip) .
 Unzip the files.
 
 *Please note that the information about the data below is fictional, and for
 the purposes of the exercise. If you want to learn more about the data used in
-these exercises, [click here](data/README.md).*
+these exercises, [click here](../data/README.md).*
 
 You are working on a research project on [Wood
 ducks](https://en.wikipedia.org/wiki/Wood_duck), and have sent students to the
