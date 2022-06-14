@@ -63,7 +63,7 @@ If you feel any one of these guidelines has been violated, please contact the wo
 | 15:15 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
 | 16:00 | Personal stories of challenges and struggles  | Breakout, see questions below! |
 | 16:25 | Wrap-up | Plenary |
-| 17:00 | End of workshop |  |
+| 16:40 | End of workshop |  |
 
 ### Discussion
 
