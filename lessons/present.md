@@ -35,7 +35,7 @@ _[View the transcript here](../transcripts/project_management.md)_
 ## Exercise
 
 **Before you start:** Make sure you have [downloaded the
-data](../../../raw/main/data/datafiles.zip) .
+data](https://github.com/meronvermaas/2022-06-23-DCC-project-management/raw/main/data/datafiles.zip) .
 Unzip the files.
 
 *Please note that the information about the data below is fictional, and for
