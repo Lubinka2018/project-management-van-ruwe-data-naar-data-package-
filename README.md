@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/562895173.svg)](https://zenodo.org/badge/latestdoi/562895173)
+
+
 # Organizing your data and software with a reproducible project workflow
 
 ## DCC Spring Training Days
