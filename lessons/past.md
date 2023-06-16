@@ -1,20 +1,8 @@
 # Past
 
-## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7GhMCBZG10s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_[View the transcript here](../transcripts/project_history.md)_
-
-## References and links
-
-- [Software Carpentry's Version Control with Git](https://swcarpentry.github.io/git-novice/)
-- [Keepachangelog.com](https://keepachangelog.com/en/1.0.0/)
-- [Semantic versioning](https://semver.org/spec/v2.0.0.html)
-
 ## Reminder: workflow
 
-- Work in pairs (or groups of three); 'pair programming' style.
+- Work in groups of three (or pairs); 'pair programming' style.
   - One of you is the _driver_: they share their screen and perform the actions.
   - The other(s) support(s) the driver, by e.g. looking up questions, and being
     active and engaged with the driver's work.
@@ -92,3 +80,16 @@ figure with the data you have cleaned up during the first session.
 When you are done: zip the entire project (you do not need to include the old
 versions at this point), and email it to your partner. They will continue as the
 driver during [FUTURE](future.md).
+
+
+## References and links
+
+- [Software Carpentry's Version Control with Git](https://swcarpentry.github.io/git-novice/)
+- [Keepachangelog.com](https://keepachangelog.com/en/1.0.0/)
+- [Semantic versioning](https://semver.org/spec/v2.0.0.html)
+
+## Rewatch the presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7GhMCBZG10s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_[View the transcript here](../transcripts/project_history.md)_
