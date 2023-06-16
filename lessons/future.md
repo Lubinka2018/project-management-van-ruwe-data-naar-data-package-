@@ -1,22 +1,8 @@
 # Future
 
-## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-WUOkqTBNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_[View the transcript here](../transcripts/project_archive.md)_
-
-## References and links
-
-- [Choose an Open Source license](https://choosealicense.com/)
-- [Creative Commons licenses](https://creativecommons.org/)
-- [Github](https://github.com/)
-- [Zenodo.org](https://zenodo.org/)
-- [Zenodo sandbox environment](https://sandbox.zenodo.org/)
-
 ## Reminder: workflow
 
-- Work in pairs (or groups of three); 'pair programming' style.
+- Work in groups of three (or pairs); 'pair programming' style.
   - One of you is the _driver_: they share their screen and perform the actions.
   - The other(s) support(s) the driver, by e.g. looking up questions, and being
     active and engaged with the driver's work.
@@ -91,3 +77,17 @@ a zipped file from your partner. Unzip the files.
    * Under normal circumstances, you would get the DOI and place a badge in your
      GitHub README. Why should you not do this now you are working in the Zenodo
      sandbox?
+
+## References and links
+
+- [Choose an Open Source license](https://choosealicense.com/)
+- [Creative Commons licenses](https://creativecommons.org/)
+- [Github](https://github.com/)
+- [Zenodo.org](https://zenodo.org/)
+- [Zenodo sandbox environment](https://sandbox.zenodo.org/)
+
+## Rewatch the presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y-WUOkqTBNE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_[View the transcript here](../transcripts/project_archive.md)_
