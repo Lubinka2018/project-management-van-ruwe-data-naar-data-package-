@@ -39,7 +39,7 @@ If you feel any one of these guidelines has been violated, please contact the wo
 
 ### Workflow
 
-- Work in pairs (or groups of three); 'pair programming' style.
+- Work in groups of three (or pairs); 'pair programming' style.
   - One of you is the _driver_: they work on their laptops and perform the actions.
   - The other(s) support(s) the driver, by e.g. looking up questions, and being
     active and engaged with the driver's work.
