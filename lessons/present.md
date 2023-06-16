@@ -1,23 +1,8 @@
 # Present
 
-## Video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tBGLRXUbCrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-_[View the transcript here](../transcripts/project_management.md)_
-
-## References and links
-
-- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
-- [Research Compendia in The Turing Way](https://the-turing-way.netlify.app/reproducible-research/compendia.html)
-- [Earth Data Analytics lesson on project organization](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/best-practices-for-organizing-open-reproducible-science/)
-- [Making a README for wet lab work, by Jonathan Peelle](http://jonathanpeelle.net/making-a-readme-file)
-- [Naming Things, by Jenny Bryan](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
-- [Tidy data chapter in R4DS](https://r4ds.had.co.nz/tidy-data.html)
-
 ## Reminder: workflow
 
-- Work in pairs (or groups of three); 'pair programming' style.
+- Work in groups of three (or pairs); 'pair programming' style.
   - One of you is the _driver_: they share their screen and perform the actions.
   - The other(s) support(s) the driver, by e.g. looking up questions, and being
     active and engaged with the driver's work.
@@ -73,3 +58,18 @@ is your job to turn them into a shareable project.
 When you are done: zip the entire project, and email it to your partner. They
 will continue as the driver during [PAST](past.md).
 
+## References and links
+
+- [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
+- [Research Compendia in The Turing Way](https://the-turing-way.netlify.app/reproducible-research/compendia.html)
+- [Earth Data Analytics lesson on project organization](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/best-practices-for-organizing-open-reproducible-science/)
+- [Making a README for wet lab work, by Jonathan Peelle](http://jonathanpeelle.net/making-a-readme-file)
+- [Naming Things, by Jenny Bryan](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
+- [Tidy data chapter in R4DS](https://r4ds.had.co.nz/tidy-data.html)
+
+
+## Rewatch the presentation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tBGLRXUbCrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+_[View the transcript here](../transcripts/project_management.md)_
