@@ -5,7 +5,6 @@ Before you join the workshop, make sure you prepare the following:
 - Make an account with [GitHub](https://github.com/join);
 - Download the data files [here](https://github.com/meronvermaas/2022-06-23-DCC-project-management/raw/main/data/datafiles.zip);
 - Ensure you can zip and unzip files on your system (check it out with the zipped data files!)
-- Ensure you can share your screen with Zoom (some systems require prior permission).
 
 And finally, please join in time and be there for the whole workshop! 
 
