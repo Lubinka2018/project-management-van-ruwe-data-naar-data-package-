@@ -40,19 +40,16 @@ If you feel any one of these guidelines has been violated, please contact the wo
 ### Workflow
 
 - Work in pairs (or groups of three); 'pair programming' style.
-  - One of you is the _driver_: they share their screen and perform the actions.
+  - One of you is the _driver_: they work on their laptops and perform the actions.
   - The other(s) support(s) the driver, by e.g. looking up questions, and being
     active and engaged with the driver's work.
 - Switch roles so that everyone in your team has been in the driver's seat:
-  - The driver zips the entire project, and emails it to a partner *before the
-    break*.
-  - The recipient unzips all and confirms the project is complete.
+  - You can share the dataset with each other.
   - Do not worry if you have not been able to finish the exercises. You can take
     your project to the next step.
 - Ask for help when needed, we are happy to support you!
-  - Use the "Ask for help" button in your breakout room. (Note that raised hands
-    and chat messages will not be seen outside the room!)
-  - A helper will join your breakout room.
+  - Call for a helper by sticking the post-it to your laptop.
+ 
 
 ### Schedule
 
