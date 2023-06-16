@@ -61,7 +61,7 @@ If you feel any one of these guidelines has been violated, please contact the wo
 | 10:15 | 14:45 | PAST: version control | [Video & exercise](lessons/past.md) |
 | 11:00 | 15:30 | _Coffee break_ | - |
 | 11:15 | 15:45 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
-| 12:00 | 16:30 | Personal stories of challenges and struggles  | Breakout, see questions below! |
+| 12:00 | 16:30 | Personal stories of challenges and struggles  | Discussion |
 | 12:20 | 16:50 | Wrap-up | Plenary |
 | 12:30 | 17:00 | End of workshop |  |
 
