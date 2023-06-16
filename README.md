@@ -53,17 +53,17 @@ If you feel any one of these guidelines has been violated, please contact the wo
 
 ### Schedule
 
-| Time  | Agenda item | Link |
-|:------|:------------|:-----|
-| 13:00 | Kickoff & introductions | Plenary |
-| 13:15 | PRESENT: organize your project | [Video & exercise](lessons/present.md) |
-| 14:00 | _Coffee break_ | - |
-| 14:15 | PAST: version control | [Video & exercise](lessons/past.md) |
-| 15:00 | _Coffee break_ | - |
-| 15:15 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
-| 16:00 | Personal stories of challenges and struggles  | Breakout, see questions below! |
-| 16:25 | Wrap-up | Plenary |
-| 16:40 | End of workshop |  |
+| Morning session  | Afternoon session  | Agenda item | Link |
+|:------|:------|:------------|:-----|
+| 09:00 | 13:30 | Kickoff & introductions | Plenary |
+| 09:15 | 13:45 | PRESENT: organize your project | [Video & exercise](lessons/present.md) |
+| 10:00 | 14:30 | _Coffee break_ | - |
+| 10:15 | 14:45 | PAST: version control | [Video & exercise](lessons/past.md) |
+| 11:00 | 15:30 | _Coffee break_ | - |
+| 11:15 | 15:45 | FUTURE: publication & archiving | [Video & exercise](lessons/future.md) |
+| 12:00 | 16:30 | Personal stories of challenges and struggles  | Breakout, see questions below! |
+| 12:20 | 16:50 | Wrap-up | Plenary |
+| 12:30 | 17:00 | End of workshop |  |
 
 ### Discussion
 
