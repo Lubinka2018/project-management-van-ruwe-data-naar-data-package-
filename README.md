@@ -73,6 +73,13 @@ the group:
 1. What is, for you, the main take-away from today's workshop?
 1. What experience in your past has taught you an important lesson about project
    management?
+
+
+### Slides
+
+Find the slides of the 2023 workshop here:
+
+* [Slides 2023](presentations/DCC_presentation_for_movie.pptx.pdf)
    
 ### Videos
 
