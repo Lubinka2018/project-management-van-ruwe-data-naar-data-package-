@@ -56,11 +56,11 @@ If you feel any one of these guidelines has been violated, please contact the wo
 | Morning session  | Afternoon session  | Agenda item | Link |
 |:------|:------|:------------|:-----|
 | 09:30 | 13:30 | Kickoff & introductions | Plenary |
-| 09:45 | 13:45 | PRESENT: organize your project |  |
+| 09:45 | 13:45 | PRESENT: organize your project | [Exercise for Present](lessons/present.md#exercise) |
 | 10:30 | 14:30 | _Coffee break_ | - |
-| 10:45 | 14:45 | PAST: version control |  |
+| 10:45 | 14:45 | PAST: version control | [Exercise for Past](lessons/past.md#exercise) |
 | 11:30 | 15:30 | _Coffee break_ | - |
-| 11:45 | 15:45 | FUTURE: publication & archiving |  |
+| 11:45 | 15:45 | FUTURE: publication & archiving | [Exercise for Future](lessons/future.md#exercise) |
 | 12:30 | 16:30 | Personal stories of challenges and struggles  | Discussion |
 | 12:50 | 16:50 | Wrap-up | Plenary |
 | 13:00 | 17:00 | End of workshop |  |
