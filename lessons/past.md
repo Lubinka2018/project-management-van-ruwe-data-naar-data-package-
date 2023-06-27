@@ -87,6 +87,9 @@ driver during [FUTURE](future.md).
 - [Software Carpentry's Version Control with Git](https://swcarpentry.github.io/git-novice/)
 - [Keepachangelog.com](https://keepachangelog.com/en/1.0.0/)
 - [Semantic versioning](https://semver.org/spec/v2.0.0.html)
+- [Documentation and metadata](https://the-turing-way.netlify.app/reproducible-research/rdm/rdm-metadata.html)
+- [eScience center documentation guidelines](https://guide.esciencecenter.nl/#/best_practices/documentation)
+- [CodeRefinery's lesson on documentation](https://coderefinery.github.io/documentation/)
 
 ## Rewatch the presentation
 
