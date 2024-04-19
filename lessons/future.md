@@ -19,43 +19,20 @@
 
 ## Exercise
 
-**Before you start:** Make sure you have received the complete project folder as
-a zipped file from your partner. Unzip the files.
+In this exercise you will work with your new GitHub repository that you created in the past. You will work with the GitHub repository of the driver.
 
-1. [Make a new public repository on
-   GitHub](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/creating-a-new-repository).
-    * Do not create any files at this point, as they will conflict with your
-      content.
-1. Click on 'uploading an existing file', and drag and drop the contents of your
-   folder to the repository.
-    * Drag and drop the _files and folders inside_ of the main project folder;
-      not the project folder itself.
-    * Dropping a folder into the repository will upload all sub folders and
-      files stored inside it.
-    * Note that empty folders will not copy into a GitHub repository. Adding
-      empty folders can be done with a workaround, but such a workaround should
-      not be necessary when uploading a complete project. It is fine to leave
-      these folders out at this point.
-    * Click on 'commit changes' to complete the upload.
 1. Add a license to the project:
     * Click 'Add file' > 'Create new file', and name your new file LICENSE
     * Go to [choosealicense.com](https://choosealicense.com/) and find a license
-      that fits your project
-    * Click through on the license of your choice, until you see a license text
+      that fits your project;
+    * Click on the license of your choice, you should see a license text
       (for example, here is [the license text for the MIT
       license](https://choosealicense.com/licenses/mit/)). Copy this license
       text (just the text!) to the LICENSE file on your GitHub repository, and
       click 'Commit new file'.
-1. Edit the changelog to reflect the addition of your license, and prepare for a
-   new version release.
-    * You can do this from inside GitHub, by clicking on the file, and then on
-      the pen-icon to edit it. Don't forget to click 'Commit changes' when you
-      are done, to save your changes.
-    * You can also edit it locally and upload the changelog to your repository.
-1. Connect your GitHub page to Zenodo.
+2. Connect your GitHub page to Zenodo.
     * [Log in to Zenodo's sandbox environment](https://sandbox.zenodo.org/login/?next=%2F)
-    * Why are we using a Sandbox? Hint: the Sandbox is non-permanent, and
-      forgets its "archived" projects!
+    * Why are we using a Sandbox? The Sandbox does not mint a real DOI, which would be forever assigned to your test project. A dummy DOI might suffice for today.
     * Click 'log in with GitHub' and authorize Zenodo to connect to your GitHub account.
     * On Zenodo's main page, click on the triangle next to your name, and choose
       'GitHub'. Find the repository you just created, and enable Zenodo's access
@@ -77,6 +54,21 @@ a zipped file from your partner. Unzip the files.
    * Under normal circumstances, you would get the DOI and place a badge in your
      GitHub README. Why should you not do this now you are working in the Zenodo
      sandbox?
+
+
+### What if you finish early?
+
+No worries, there is more to explore and learn. Here are some suggestions for what you could do:
+
+- Did you know that software projects can be cited and that you can get credit for your project?
+  - Add a citation.CFF file to your porject.
+  - Find out about citation files [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)    
+
+- Try to explore features of GitHub. How can you work together on the same project?
+  - the driver add the other team members as collaborators to the GitHub repository.
+  - all collaborators use GitHub Desktob App to access the GitHub repository.
+  - Try to make changes for the same file and try to push it to GitHub. What happens?
+     
 
 ## References and links
 
