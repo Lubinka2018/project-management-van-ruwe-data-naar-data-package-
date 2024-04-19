@@ -24,62 +24,21 @@ a zipped file from your partner. Unzip the files.
 
 Your project is growing! As you are continuing, it is good to keep track of your
 changes, so that work done with different states of the project can be
-adequately assessed later on. Your job will be to start a record of your changes
-(a '[changelog](https://keepachangelog.com/en/1.0.0/)'), and create a first
-version of your project. For this to make sense, you are invited to create a
-figure with the data you have cleaned up during the first session.
+adequately assessed later on. Your job will be to start a git project in GitHub Desktop, and create a first version of your project.
 
-1. Take a look at the changelog at the top of the page on
-   [keepachangelog.com](https://keepachangelog.com/en/1.0.0/).
-1. Create a file in the root called `CHANGELOG.txt`. Edit this file with a text
-   editor, like Notepad. If you feel comfortable with Markdown, please [use
-   Markdown formatting](https://www.markdownguide.org/basic-syntax/), and name
-   your file `CHANGELOG.md`.
-1. Set up your changelog with a small introduction, for example (Markdown format):
-
-    ```
-    # Changelog
-
-    All notable changes to this project will be documented in this file.
-
-    The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-    and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
-    ```
-
-1. Define the version of your project, using [semantic
-   versioning](https://semver.org/spec/v2.0.0.html). Make a first entry in the
-   changelog, entering your version number, and the date. Be sure to enter the
-   date in the YYYY-MM-DD format:
-
-     ```
-     ## [VERSION] - YYYY-MM-DD
-     ### Added
-     ```
-
-1. Describe the current state of the project briefly in bullet points.
-1. Zip the entire project, and save it using the name of the project and the
-   version number. E.g.: `wooden-duck-situation-v0.1.1.zip`. Store the zipped
-   version next to your project folder in your system.
-1. Build on your project. The exact nature of this change is up to you and your
-   creativity, but you could imagine:
-    * making a plot of the data, plotting e.g. the number of hatched eggs to the
-      weight of the birds, saving this image in a results folder;
-    * describing the data cleaning steps you took in a 'methods' section of the
-      documentation;
-    * deleting your students' excel files from the project.
-1. Prepare the release of a new version:
-    * Describe your changes to the project briefly in the changelog, using the
-      change type tags described by
-      [keepachangelog.org](https://keepachangelog.com/en/1.0.0/#how): n.b.
-      Added, Changed, Deprecated, Removed, Fixed, Security.
-    * Define the version number of this new version, based on semantic
-      versioning guidelines.
-1. Zip the project and save it using the new version number, just outside your
-   project's main folder.
-
-When you are done: zip the entire project (you do not need to include the old
-versions at this point), and email it to your partner. They will continue as the
-driver during [FUTURE](future.md).
+1. Open the program GitHub Desktop.
+1. In Github Desktop, click on `File` and then `New Repository`. This will prompt you to fill in the "name" and "local path" of the repository. Make sure to tick the box "Initialize this repository with a README".
+1. A new folder is created on your computer where changes can be tracked. There also is a file created `README.md`. In Github Desktop, click on `Show in explorer` to look at this new folder.
+1. In the explorer, copy the unzipped data folder into your new git folder.
+1. In Github Desktop, take a "snapshot" of the changes in this new version, write a title and description of the changes and click on `Commit to main`
+1. In the explorer, open the README.md file with a text editor (e.g., notepad) and write some documentation about the dataset.
+1. In Github Desktop, (the same as before) take a "snapshot" of the changes in this new version, write a title and description of the changes and click on `Commit to main`.
+1. If time allows, create a figure?
+1. In Github Desktop, click on `Publish repository`. Follow the prompt to `Sign in` to GitHub.
+1. Now you can publish your repository in the cloud. Untick `keep this code private` and click on `Publish repository`.
+1. When you are done, share the url with your partner (you don't need to unzip this time).
+1. In GitHub Desktop, your partner clicks on `File` and then `Clone a repository`. Here fill in the url and the path where a copy of the project will be downloaded.
+1. Now they can continue as the driver during [FUTURE](future.md).
 
 
 ## References and links
@@ -91,7 +50,7 @@ driver during [FUTURE](future.md).
 - [eScience center documentation guidelines](https://guide.esciencecenter.nl/#/best_practices/documentation)
 - [CodeRefinery's lesson on documentation](https://coderefinery.github.io/documentation/)
 
-## Rewatch the presentation
+## Watch a presentation on changelogs (manual version control)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7GhMCBZG10s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
