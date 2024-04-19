@@ -55,6 +55,21 @@ In this exercise you will work with your new GitHub repository that you created 
      GitHub README. Why should you not do this now you are working in the Zenodo
      sandbox?
 
+
+### What if you finish early?
+
+No worries, there is more to explore and learn. Here are some suggestions for what you could do:
+
+- Did you know that software projects can be cited and that you can get credit for your project?
+  - Add a citation.CFF file to your porject.
+  - Find out about citation files [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-citation-files)    
+
+- Try to explore features of GitHub. How can you work together on the same project?
+  - the driver add the other team members as collaborators to the GitHub repository.
+  - all collaborators use GitHub Desktob App to access the GitHub repository.
+  - Try to make changes for the same file and try to push it to GitHub. What happens?
+     
+
 ## References and links
 
 - [Choose an Open Source license](https://choosealicense.com/)
