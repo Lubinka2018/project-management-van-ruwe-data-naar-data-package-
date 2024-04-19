@@ -29,16 +29,26 @@ adequately assessed later on. Your job will be to start a git project in GitHub 
 1. Open the program GitHub Desktop.
 1. In Github Desktop, click on `File` and then `New Repository`. This will prompt you to fill in the "name" and "local path" of the repository. Make sure to tick the box "Initialize this repository with a README".
 1. A new folder is created on your computer where changes can be tracked. There also is a file created `README.md`. In Github Desktop, click on `Show in explorer` to look at this new folder.
-1. In the explorer, copy the unzipped data folder into your new git folder.
+1. In another explorer, find the unzipped data folder you received and copy it into your new git folder.
+1. In GitHub Desktop, notice that changes are automatically noticed. But the changes are not tracked yet (not picture has been taken).
 1. In Github Desktop, take a "snapshot" of the changes in this new version, write a title and description of the changes and click on `Commit to main`
 1. In the explorer, open the README.md file with a text editor (e.g., notepad) and write some documentation about the dataset.
 1. In Github Desktop, (the same as before) take a "snapshot" of the changes in this new version, write a title and description of the changes and click on `Commit to main`.
-1. If time allows, create a figure?
 1. In Github Desktop, click on `Publish repository`. Follow the prompt to `Sign in` to GitHub.
 1. Now you can publish your repository in the cloud. Untick `keep this code private` and click on `Publish repository`.
-1. When you are done, share the url with your partner (you don't need to unzip this time).
-1. In GitHub Desktop, your partner clicks on `File` and then `Clone a repository`. Here fill in the url and the path where a copy of the project will be downloaded.
+1. When you are done, share the url with your partner (you don't need to zip the data this time).
+1. In GitHub Desktop, your partner clicks on `File` and then `Clone a repository`. Your partner fills in the url and the local path on their computer where a copy of the project will be downloaded.
 1. Now they can continue as the driver during [FUTURE](future.md).
+
+## What if you finish early?
+- Do some archeology by clicking on `History` (top left column, next to `Changes`).
+  - Inspect the different commits you made, and what changed.
+  - Try right-clicking on a past commit and select `checkout commit`, and then confirm by clicking `checkout commit`.
+  - Inspect the state of your project in the explorer.
+  - To go back to your latest version, click in the top on `Detached HEAD` and under Default branch, click on `main`.
+- Ignore some things that you never want to put into a version.
+  - Click on `Repository` and then `Repository settings`. Select `Ignored files` and try out this functionality.
+
 
 
 ## References and links
