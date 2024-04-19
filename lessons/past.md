@@ -38,6 +38,9 @@ adequately assessed later on. Your job will be to start a git project in GitHub 
 1. Now you can publish your repository in the cloud. Untick `keep this code private` and click on `Publish repository`.
 1. When you are done, share the url with your partner (you don't need to zip the data this time).
 1. In GitHub Desktop, your partner clicks on `File` and then `Clone a repository`. Your partner fills in the url and the local path on their computer where a copy of the project will be downloaded.
+1. Your partner just downloaded it onto their computer. They should link it to their GitHub account as well.
+1. In Github Desktop, they should click on `Publish repository` and follow the prompt to `Sign in` to GitHub.
+1. Now you they publish the repository in the cloud. Untick `keep this code private` and click on `Publish repository`.
 1. Now they can continue as the driver during [FUTURE](future.md).
 
 ## What if you finish early?
