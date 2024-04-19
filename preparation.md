@@ -3,6 +3,7 @@
 Before you join the workshop, make sure you prepare the following:
 
 - Make an account with [GitHub](https://github.com/join);
+- Install [GitHub Desktop App](https://desktop.github.com) for the best experience;
 - Download the data files [here](https://github.com/meronvermaas/2022-06-23-DCC-project-management/raw/main/data/datafiles.zip);
 - Ensure you can zip and unzip files on your system (check it out with the zipped data files!)
 
