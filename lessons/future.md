@@ -21,7 +21,7 @@
 
 In this exercise you will work with your new GitHub repository that you created in the past. You will work with the GitHub repository of the driver.
 
-0. In a internet browser, open the github url that your received from the previous driver and click on `Fork` (top right)
+0. In an internet browser, open the github url that your received from the previous driver and click on `Fork` (top right)
     * Next, use all the default settings and click on `Create fork`.
     * This creates a copy that you own and can further develop. But it is still connected to the previous driver and could be used for collaboration.
 1. Add a license to the project:
