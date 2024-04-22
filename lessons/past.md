@@ -36,12 +36,8 @@ adequately assessed later on. Your job will be to start a git project in GitHub 
 1. In Github Desktop, (the same as before) take a "snapshot" of the changes in this new version, write a title and description of the changes and click on `Commit to main`.
 1. In Github Desktop, click on `Publish repository`. Follow the prompt to `Sign in` to GitHub.
 1. Now you can publish your repository in the cloud. Untick `keep this code private` and click on `Publish repository`.
-1. When you are done, share the url with your partner (you don't need to zip the data this time).
-1. In GitHub Desktop, your partner clicks on `File` and then `Clone a repository`. Your partner fills in the url and the local path on their computer where a copy of the project will be downloaded.
-1. Your partner just downloaded it onto their computer. They should link it to their GitHub account as well.
-1. In Github Desktop, they should click on `Publish repository` and follow the prompt to `Sign in` to GitHub.
-1. After signing in, they can publish the repository in the cloud. Untick `keep this code private` and click on `Publish repository`.
-1. Now they can continue as the driver during [FUTURE](future.md).
+1. When you are done, share the url with the partner that will continue in the next section (you don't need to zip the data this time).
+1. They will continue in [FUTURE](future.md). You can grab a coffee or tea now!
 
 ## What if you finish early?
 - Do some archeology by clicking on `History` (top left column, next to `Changes`).
