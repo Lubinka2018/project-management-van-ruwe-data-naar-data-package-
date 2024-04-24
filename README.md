@@ -77,9 +77,9 @@ the group:
 
 ### Slides
 
-Find the slides of the 2023 workshop here:
+Find the slides of the 2024 workshop here:
 
-* [Slides 2023](presentations/DCC_presentation_for_movie.pptx.pdf)
+* [Slides 2024](presentations/DCC_presentation_for_movie.pptx.pdf)
    
 ### Videos
 
