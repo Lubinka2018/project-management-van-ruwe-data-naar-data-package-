@@ -17,15 +17,15 @@ je project naar de volgende stap brengen.
 en chatberichten zijn niet buiten de kamer te zien!)
 - Een helper komt naar je breakout room.
 
-## Exercise
+## Oefening
 
-**Before you start:** Make sure you have [downloaded the
+**Voordat u begint:** Zorg ervoor dat je: [downloaded the
 data](https://github.com/meronvermaas/2022-06-23-DCC-project-management/raw/main/data/datafiles.zip) .
-Unzip the files.
+Pak de bestanden uit
 
-*Please note that the information about the data below is fictional, and for
-the purposes of the exercise. If you want to learn more about the data used in
-these exercises, [click here](../data/README.md).*
+*Houd er rekening mee dat de informatie over de onderstaande gegevens fictief is en voor
+de doeleinden van de oefening. Als u meer wilt weten over de gegevens die in
+deze oefeningen worden gebruikt, [click here](../data/README.md).*
 
 #Je werkt aan een onderzoeksproject over [Wood
 ducks](https://en.wikipedia.org/wiki/Wood_duck) en hebt studenten naar het veld gestuurd om gegevens te verzamelen. Ze hebben je sjabloon gebruikt en informatie ingevuld
@@ -48,20 +48,9 @@ Denk aan:
 * Begin met een README voor het hele project, in de root van de projectmap.
 * Denkt u dat het nodig is om een ​​README voor de gegevens te maken? Waarom (niet)? Zo
 ja: maak er een!
-5. Write README files for your project:
-    * Start with a README for the entire project, in the root of the project folder.
-    * Do you think it is necessary to create a README for the data? Why (not)? If
-      yes: make one!
-    * You can write your files in plain text (use a text editor, like Notepad,
-      for this, not Word) and save them in the `.txt` format. If you feel
-      comfortable with Markdown, you can use [Markdown
-      formatting](https://www.markdownguide.org/basic-syntax/) in your text and
-      save your files as `README.md`.
 
-When you are done: zip the entire project, and email it to your partner. They
-will continue as the driver during [PAST](past.md).
 
-## References and links
+## Referenties en links
 
 - [Good enough practices in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)
 - [Research Compendia in The Turing Way](https://the-turing-way.netlify.app/reproducible-research/compendia.html)
