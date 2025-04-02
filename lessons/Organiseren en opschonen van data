@@ -1,1 +1,31 @@
+Exercise
+Before you start: Make sure you have downloaded the data . Unzip the files.
 
+Please note that the information about the data below is fictional, and for the purposes of the exercise. If you want to learn more about the data used in these exercises, click here.
+
+You are working on a research project on Wood ducks, and have sent students to the field to collect data. They have taken your template, and filled out information about the nests they surveyed. These raw data inputs are your starting point. It is your job to turn them into a shareable project.
+
+Create a single folder in which the entire project will be contained. Give it a simple name (without spaces).
+Devise a project structure. What folders do you need, and how will you structure them?
+Place the data files in one of the folders. Rename them so it is clear what they contain.
+Create one overarching data file that contains all data from the raw files. Consider:
+Is the data in a 'tidy' format, so future processing will be smooth?
+Do all units match? Is it clear what they are?
+Is the file format interoperable?
+Where do you want to store this file in your folder structure?
+Write README files for your project:
+Start with a README for the entire project, in the root of the project folder.
+Do you think it is necessary to create a README for the data? Why (not)? If yes: make one!
+You can write your files in plain text (use a text editor, like Notepad, for this, not Word) and save them in the .txt format. If you feel comfortable with Markdown, you can use Markdown formatting in your text and save your files as README.md.
+When you are done: zip the entire project, and email it to your partner. They will continue as the driver during PAST.
+
+References and links
+Good enough practices in scientific computing
+Research Compendia in The Turing Way
+Earth Data Analytics lesson on project organization
+Making a README for wet lab work, by Jonathan Peelle
+Naming Things, by Jenny Bryan
+Tidy data chapter in R4DS
+Rewatch the presentation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tBGLRXUbCrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+View the transcript here
