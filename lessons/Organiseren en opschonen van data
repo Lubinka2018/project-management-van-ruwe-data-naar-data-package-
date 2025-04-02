@@ -27,25 +27,28 @@ Unzip the files.
 the purposes of the exercise. If you want to learn more about the data used in
 these exercises, [click here](../data/README.md).*
 
-You are working on a research project on [Wood
-ducks](https://en.wikipedia.org/wiki/Wood_duck), and have sent students to the
-field to collect data. They have taken your template, and filled out information
-about the nests they surveyed. These raw data inputs are your starting point. It
-is your job to turn them into a shareable project.
+#Je werkt aan een onderzoeksproject over [Wood
+ducks](https://en.wikipedia.org/wiki/Wood_duck) en hebt studenten naar het veld gestuurd om gegevens te verzamelen. Ze hebben je sjabloon gebruikt en informatie ingevuld
+over de nesten die ze hebben onderzocht. Deze ruwe gegevensinvoer is je startpunt. Het is
+jouw taak om ze om te zetten in een deelbaar project.
 
-1. Create a single folder in which the entire project will be contained. Give it
-   a simple name (without spaces).
-1. Devise a project structure. What folders do you need, and how will you
-   structure them?
-1. Place the data files in one of the folders. Rename them so it is clear what
-   they contain.
-1. Create one overarching data file that contains all data from the raw files.
-   Consider:
-    * Is the data in a 'tidy' format, so future processing will be smooth?
-    * Do all units match? Is it clear what they are?
-    * Is the file format interoperable?
-    * Where do you want to store this file in your folder structure?
-1. Write README files for your project:
+1. Maak een enkele map waarin het hele project wordt opgeslagen. Geef het
+een eenvoudige naam (zonder spaties).
+2. Bedenk een projectstructuur. Welke mappen heb je nodig en hoe ga je ze
+structureren?
+3. Plaats de gegevensbestanden in een van de mappen. Hernoem ze zodat het duidelijk is wat
+ze bevatten.
+4. Maak één overkoepelend gegevensbestand dat alle gegevens uit de ruwe bestanden bevat.
+Denk aan:
+* Zijn de gegevens in een 'nette' indeling, zodat toekomstige verwerking soepel verloopt?
+* Komen alle eenheden overeen? Is het duidelijk wat ze zijn?
+* Is het bestandsformaat interoperabel?
+* Waar wilt u dit bestand in uw mappenstructuur opslaan?
+1. Schrijf README-bestanden voor uw project:
+* Begin met een README voor het hele project, in de root van de projectmap.
+* Denkt u dat het nodig is om een ​​README voor de gegevens te maken? Waarom (niet)? Zo
+ja: maak er een!
+5. Write README files for your project:
     * Start with a README for the entire project, in the root of the project folder.
     * Do you think it is necessary to create a README for the data? Why (not)? If
       yes: make one!
