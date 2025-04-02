@@ -60,7 +60,7 @@ Zo ja: maak er een!
 - [Tidy data chapter in R4DS](https://r4ds.had.co.nz/tidy-data.html)
 
 
-## Rewatch the presentation
+## Bekijk de presentatie
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tBGLRXUbCrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
