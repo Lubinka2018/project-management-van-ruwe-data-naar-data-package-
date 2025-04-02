@@ -1,5 +1,3 @@
-# Heden
-
 # Present
 
 ## Reminder: workflow
