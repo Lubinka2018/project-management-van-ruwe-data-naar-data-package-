@@ -15,9 +15,7 @@ je project naar de volgende stap brengen.
 
 **Voordat u begint:** Zorg ervoor dat je: [download the
 data](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/raw/main/data/datafiles.zip)
-
-(https://github.com/meronvermaas/2022-06-23-DCC-project-management/raw/main/data/datafiles.zip) .
-Pak de bestanden uit
+Pak de bestanden uit.
 
 *Houd er rekening mee dat de informatie over de onderstaande gegevens fictief is en voor
 de doeleinden van de oefening. Als u meer wilt weten over de gegevens die in
@@ -39,10 +37,10 @@ Denk aan:
 * Zijn de gegevens in een 'nette' indeling, zodat toekomstige verwerking soepel verloopt?
 * Komen alle eenheden overeen? Is het duidelijk wat ze zijn?
 * Is het bestandsformaat interoperabel?
-* Waar wilt u dit bestand in uw mappenstructuur opslaan?
-1. Schrijf README-bestanden voor uw project:
-* Begin met een README voor het hele project, in de root van de projectmap.
-* Denkt u dat het nodig is om een ​​README voor de gegevens te maken? Waarom (niet)? 
+* Waar wilt je dit bestand in uw mappenstructuur opslaan?
+1. Schrijf README-bestanden voor jouw project:
+* Begin met een README voor het hele project.
+* Denkt je dat het nodig is om een ​​README voor de gegevens te maken? Waarom (niet)? 
 Zo ja: maak er een!
 
 
@@ -55,9 +53,5 @@ Zo ja: maak er een!
 - [Naming Things, by Jenny Bryan](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf)
 - [Tidy data chapter in R4DS](https://r4ds.had.co.nz/tidy-data.html)
 
-
-## Bekijk de presentatie
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tBGLRXUbCrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _[View the transcript here](../transcripts/project_management.md)_
