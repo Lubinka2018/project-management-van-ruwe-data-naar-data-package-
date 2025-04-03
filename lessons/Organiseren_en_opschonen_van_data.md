@@ -38,7 +38,7 @@ Denk aan:
 * Komen alle eenheden overeen? Is het duidelijk wat ze zijn?
 * Is het bestandsformaat interoperabel?
 * Waar wilt je dit bestand in uw mappenstructuur opslaan?
-5. Schrijf README-bestanden voor jouw project:
+5. Schrijf README-bestand(en) voor jouw project:
 * Begin met een README voor het hele project.
 * Denkt je dat het nodig is om een ​​README voor de gegevens te maken? Waarom (niet)? 
 Zo ja: maak er een!
