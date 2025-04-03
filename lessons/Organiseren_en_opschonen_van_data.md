@@ -14,7 +14,7 @@ je project naar de volgende stap brengen.
 ## Oefening
 
 **Voordat u begint:** Zorg ervoor dat je: [download the
-data](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/blob/main/data/datafiles.zip)
+data](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/raw/main/data/datafiles.zip)
 
 (https://github.com/meronvermaas/2022-06-23-DCC-project-management/raw/main/data/datafiles.zip) .
 Pak de bestanden uit
