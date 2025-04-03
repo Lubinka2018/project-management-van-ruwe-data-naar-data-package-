@@ -1,21 +1,15 @@
-# Heden
+# Organiseren en opschonenen van data
 
-## Herinnering: workflow
+## Werkwijze
 
-- Werk in groepen van drie (of paren); 'pair programming'-stijl.
-- Een van jullie is de _driver_: ze delen hun scherm en voeren de acties uit.
-- De ander(en) ondersteunen de driver, door bijvoorbeeld vragen op te zoeken en
-actief en betrokken te zijn bij het werk van de driver.
-- Wissel van rol zodat iedereen in je team aan het stuur zit:
-- De driver zipt het hele project en mailt het naar een partner *vóór de
-break*.
-- De ontvanger pakt alles uit en bevestigt dat het project voltooid is.
+- Werk in groepen van drie (of paren)
+- Spreek af of een iemand de opdracht op een laptop uitvoert of iedereen op zijn eigen laptop werkt
+- Als iedereen op zijn eigen laptop werkt, zorg ervoor dat jullie de voortgang met elkaar bespreken
 - Maak je geen zorgen als je de oefeningen niet hebt kunnen afmaken. Je kunt
 je project naar de volgende stap brengen.
 - Vraag om hulp wanneer nodig, we ondersteunen je graag!
-- Gebruik de knop 'Vraag om hulp' in je breakout room. (Let op: opgestoken handen
-en chatberichten zijn niet buiten de kamer te zien!)
-- Een helper komt naar je breakout room.
+- Gebruik de post it om aan te geven dat je hulp nodig hebt door deze aan de achterkant van je laptop te plakken
+- Een helper komt naar je toe.
 
 ## Oefening
 
