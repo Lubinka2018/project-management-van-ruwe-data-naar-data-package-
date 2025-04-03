@@ -54,4 +54,3 @@ Zo ja: maak er een!
 - [Tidy data chapter in R4DS](https://r4ds.had.co.nz/tidy-data.html)
 
 
-_[View the transcript here](../transcripts/project_management.md)_
