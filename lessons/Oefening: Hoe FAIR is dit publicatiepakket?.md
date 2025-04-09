@@ -1,4 +1,4 @@
-### Oefening: Hoe FAIR is dit publicatiepakket?
+# Oefening: Hoe FAIR is dit publicatiepakket?
 
 # Findable
 - By both humans and machines
