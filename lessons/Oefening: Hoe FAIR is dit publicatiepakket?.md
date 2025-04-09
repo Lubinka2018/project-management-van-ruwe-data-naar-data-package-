@@ -5,8 +5,8 @@
 - Include metadata that allow the discovery of interesting datasets
 # Accessible
 - Stored for long term with technical access and well
-- Defined legal conditionsOpen if possible
-- Open as possible
+- Defined legal conditions
+- Open if possible
 # Interoperable
 - Ready to be combined with other datasets
 - Reusable
