@@ -26,7 +26,7 @@ Als je van mening bent dat een van deze richtlijnen is geschonden, neem dan cont
 | 9.30 – 9.50 | Opening en kennismaking | - |
 | 9.50 – 11.05 | Organiseren en opschonen van data | [Opdracht](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/blob/main/lessons/Organiseren_en_opschonen_van_data.md#exercise) |
 | 11.05 – 11.15 | _Pauze_ | - |
-| 11.15 – 12.30 | Publikatiepakket| [Exercise for Past](lessons/past.md#exercise) |
+| 11.15 – 12.30 | Publikatiepakket| [Opdracht](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/blob/main/lessons/Oefening%3A%20Hoe%20FAIR%20is%20dit%20publicatiepakket%3F.md#oefening-hoe-fair-is-dit-publicatiepakket) |
 | 11:30 | _Wrap-up_ | - |
 
 
