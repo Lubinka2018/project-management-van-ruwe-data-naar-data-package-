@@ -19,12 +19,12 @@ Van deelnemers wordt verwacht dat zij zich aan de volgende richtlijnen houden:
 Als je van mening bent dat een van deze richtlijnen is geschonden, neem dan contact op met de organisatoren van de workshop!
 
 
-### Schedule
+### Programma
 
 | Morning session | Agenda item | Link |
 |:------|:------------|:-----|
 | 9.30 – 9.50 | Opening en kennismaking | - |
-| 9.50 – 11.05 | PRESENT: Organiseren en opschonen van data | [Exercise for Present](lessons/present.md#exercise) |
+| 9.50 – 11.05 | Organiseren en opschonen van data | [Exercise for Present](lessons/present.md#exercise) |
 | 11.05 – 11.15 | _Pauze_ | - |
 | 11.15 – 12.30 | Publikatiepakket| [Exercise for Past](lessons/past.md#exercise) |
 | 11:30 | _Wrap-up_ | - |
