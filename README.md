@@ -1,6 +1,3 @@
-[![DOI](https://zenodo.org/badge/562895173.svg)](https://zenodo.org/badge/latestdoi/562895173)
-
-
 # Van ruwe data naar data pakket
 
 ## DCC Spring Training Days
