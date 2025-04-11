@@ -16,42 +16,13 @@ Als je van mening bent dat een van deze richtlijnen is geschonden, neem dan cont
 
 
 ### Programma
-<table>
-  <thead>
-    <tr>
-      <th>Tijdstip</th>
-      <th>Agenda item</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>9.30 – 9.50</td>
-      <td>Opening en kennismaking</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>9.50 – 11.05</td>
-      <td>Organiseren en opschonen van data</td>
-      <td><a href="https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/blob/main/lessons/Organiseren_en_opschonen_van_data.md#exercise">Opdracht</a></td>
-    </tr>
-    <tr>
-      <td>11.05 – 11.15</td>
-      <td><em>Pauze</em></td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <td>11.15 – 12.30</td>
-      <td>Publikatiepakket</td>
-      <td><a href="https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/blob/main/lessons/Oefening%3A%20Hoe%20FAIR%20is%20dit%20publicatiepakket%3F.md#oefening-hoe-fair-is-dit-publicatiepakket">Opdracht</a></td>
-    </tr>
-    <tr>
-      <td>12:30</td>
-      <td><em>Wrap-up</em></td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+| Tijdstip  | Agenda item  | Link  |
+|:------|:------------|:-----|
+| 9.30 – 9.50 | Opening en kennismaking | - |
+| 9.50 – 11.05 | Organiseren en opschonen van data | [Opdracht](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/blob/main/lessons/Organiseren_en_opschonen_van_data.md#exercise) |
+| 11.05 – 11.15 | _Pauze_ | - |
+| 11.15 – 12.30 | Publikatiepakket| [Opdracht](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/blob/main/lessons/Oefening%3A%20Hoe%20FAIR%20is%20dit%20publicatiepakket%3F.md#oefening-hoe-fair-is-dit-publicatiepakket) |
+| 12:30 | _Wrap-up_ | - |
 
 
 ### Wrap-up
