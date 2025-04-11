@@ -1,3 +1,4 @@
+---
 ## DCC Spring Training Days: Van ruwe data tot publicatiepakket
 
 ### Gedragscode
