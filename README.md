@@ -1,4 +1,4 @@
-# Van ruwe data naar data pakket
+# Van ruwe data tot publicatiepakket
 
 ## DCC Spring Training Days
 
