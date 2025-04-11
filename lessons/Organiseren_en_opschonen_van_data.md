@@ -13,12 +13,12 @@ je project naar de volgende stap brengen.
 
 ## Oefening
 
-**Voordat u begint:** Zorg ervoor dat je: [download the
+**Voordat je begint:** Zorg ervoor dat je: [download the
 data](https://github.com/Lubinka2018/project-management-van-ruwe-data-naar-data-package-/raw/main/data/datafiles.zip)
 Pak de bestanden uit.
 
 *Houd er rekening mee dat de informatie over de onderstaande gegevens fictief is en voor
-de doeleinden van de oefening. Als u meer wilt weten over de gegevens die in
+de doeleinden van de oefening. Als je meer wilt weten over de gegevens die in
 deze oefeningen worden gebruikt, [click here](../data/README.md).*
 
 #Je werkt aan een onderzoeksproject over [Wood
