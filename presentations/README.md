@@ -1,4 +1,4 @@
-# This folder contains PDF presentations for the training
+# This folder contains PP presentations for the training
 
 To view a presentation:
 - Click on a file name 
